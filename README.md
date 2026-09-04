@@ -18,7 +18,7 @@ graph LR
   linkStyle default stroke:#BE5504,stroke-width:1.5px;
 ```
 
-**Stack:** Framer, Next.js 16 (App Router), TypeScript, Tailwind v4, Supabase with row-level security, Claude API. Auth and RLS get phased in deliberately per project rather than scaffolded on day one.
+**Stack:** Framer, Next.js 16 (App Router), TypeScript, Tailwind v4, Supabase with row-level security. Auth and RLS get phased in deliberately per project rather than scaffolded on day one.
 
 The thread through the ventures is a bias against two failure modes I've watched sink good work: the founder-remembers-it-differently problem, and the green-checkmark-that-proves-nothing problem. A design-token system solved in OKLCH against real contrast constraints, not picked by eye. A register that tracks every "done" claim against a script that has to actually prove it: 250+ live assertions, self-policing, currently green. An item can't be marked closed while the field that's supposed to prove it is empty; that rule caught ten items that weren't actually done the first day it ran.
 
