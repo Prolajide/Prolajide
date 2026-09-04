@@ -11,7 +11,7 @@ graph LR
   GWG["Golden Wheels Group<br/>holding structure"]:::hub
   GWG --> Kairo["GoKairo<br/>studio · client sites & brand systems"]:::venture
   GWG --> Retain["RetainAI<br/>live product"]:::venture
-  GWG --> Wash["Washyard<br/>portfolio concept"]:::venture
+  GWG --> Wash["Washline<br/>portfolio concept"]:::venture
 
   classDef hub fill:#BE5504,stroke:#AC3700,stroke-width:1px,color:#FFFFFF,font-weight:bold;
   classDef venture fill:#F7E9DE,stroke:#BE5504,stroke-width:1.5px,color:#2B2B2B;
@@ -24,6 +24,6 @@ The thread through the ventures is a bias against two failure modes I've watched
 
 Over-engineering is the failure I watch for hardest. A rule earns its place by naming the specific thing it prevents, or it doesn't ship.
 
-**Currently:** RetainAI is live and taking real usage. GoKairo is shipping client work. Washyard is a portfolio concept: Vancouver expansion of a real Lagos laundromat brand, built to be judged as product work, not a mockup.
+**Currently:** RetainAI is live and taking real usage. GoKairo is shipping client work. Washline is a portfolio concept: Vancouver expansion of a real Lagos laundromat brand, built to be judged as product work, not a mockup.
 
 **Connect:** Connecting with you will be my pleasure - **[Prolajide](https://www.linkedin.com/in/prolajide/)**
