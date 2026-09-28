@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# environment and secrets — never committed
+.env
+.env.*
+
+# private keys, certificates
+*.key
+*.pem
+*.crt
+*.p12
